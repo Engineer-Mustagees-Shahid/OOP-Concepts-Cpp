@@ -1,0 +1,31 @@
+===========================================================
+🍔 FOOD DELIVERY SYSTEM - USER GUIDE & INSTRUCTIONS 🍔
+===========================================================
+
+This is a console-based C++ application developed for the 
+Semester 2 OOP Project. Follow the guidelines below to use it:
+
+-----------------------------------------------------------
+🚀 HOW TO RUN THE APPLICATION:
+-----------------------------------------------------------
+1. Locate the executable file named "main.exe" inside Food Delivery System folder.
+   (Note: If your .exe has a different name, look for the application file).
+2. Double-click the .exe file to launch the console screen.
+3. If it closes instantly, make sure you are running it on a 
+   Windows operating system.
+
+-----------------------------------------------------------
+🎮 HOW TO USE (CONSOLE INTERACTION):
+-----------------------------------------------------------
+1. Navigation: This application uses numeric inputs. Type the 
+   number corresponding to your choice (e.g., 1, 2, 3) and press ENTER.
+2. User Roles: You can choose to enter as a:
+   - Customer (To browse the menu, add items to cart, and order)
+   - Admin/Manager (To update the menu or view active orders)
+3. Inputting Data: When prompted, type text paths or numbers carefully 
+   without extra spaces to avoid program crashes.
+4. Exit: Always select the "Exit" option from the main menu 
+   to close the program safely.
+
+===========================================================
+Thank you for trying out the project!

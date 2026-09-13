@@ -49,4 +49,4 @@ The crown jewel of this repository is the **Food Delivery System**. It brings to
 - **Version Control:** Git & GitHub
 
 ---
-*Developed with ❤️ during my 2nd Semester OOP Course.*
+*Developed during my 2nd Semester OOP Course.*
